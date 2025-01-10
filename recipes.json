@@ -1,0 +1,254 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Ravitoto sy Henakisoa",
+      "image": "https://i.pinimg.com/originals/6d/a5/68/6da56890f58bc3dbc6347ad14fe71c1a.jpg",
+      "description": "Un plat traditionnel malgache à base de feuilles de manioc pilées et de porc. Riche en nutriments et très apprécié dans tout Madagascar.",
+      "difficulty": "Moyen",
+      "category": "Plat principal",
+      "ingredients": [
+        {
+          "name": "Manioc Leaves",
+          "quantity": "500g",
+          "estimatedPrice": 2000
+        },
+        {
+          "name": "Pork",
+          "quantity": "400g",
+          "estimatedPrice": 12000
+        }
+      ],
+      "prepTime": 30,
+      "cookingTime": 60,
+      "steps": [
+        "Clean and pound the manioc leaves",
+        "Cut pork into chunks",
+        "Cook pork until tender",
+        "Add manioc leaves and simmer"
+      ],
+      "servings": 4,
+      "totalBudget": 14000,
+      "dietaryTags": ["high-protein"],
+      "allergens": []
+    },
+    {
+      "id": "2",
+      "name": "Romazava",
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=1000",
+      "description": "Le Romazava est considéré comme le plat national malgache. Un bouillon savoureux de bœuf avec diverses brèdes vertes.",
+      "difficulty": "Facile",
+      "category": "Plat principal",
+      "ingredients": [
+        {
+          "name": "Beef",
+          "quantity": "300g",
+          "estimatedPrice": 15000
+        },
+        {
+          "name": "Mixed Greens",
+          "quantity": "400g",
+          "estimatedPrice": 3000
+        },
+        {
+          "name": "Ginger",
+          "quantity": "30g",
+          "estimatedPrice": 1000
+        }
+      ],
+      "prepTime": 20,
+      "cookingTime": 45,
+      "steps": [
+        "Couper la viande de bœuf en petits morceaux",
+        "Préparer et laver les légumes verts",
+        "Faire cuire le bœuf avec le gingembre",
+        "Ajouter les légumes verts et laisser mijoter"
+      ],
+      "servings": 3,
+      "totalBudget": 19000,
+      "dietaryTags": ["high-protein", "low-carb"],
+      "allergens": []
+    },
+    {
+      "id": "3",
+      "name": "Vary sy Anana",
+      "image": "https://www.ile-rouge.com/wp-content/uploads/2021/01/vary-aminanana-1024x683.jpg",
+      "description": "Un plat végétarien simple et nutritif combinant du riz avec des légumes verts cuits à la vapeur.",
+      "difficulty": "Facile",
+      "category": "Plat principal",
+      "ingredients": [
+        {
+          "name": "Rice",
+          "quantity": "500g",
+          "estimatedPrice": 2500
+        },
+        {
+          "name": "Leafy Greens",
+          "quantity": "300g",
+          "estimatedPrice": 2000
+        }
+      ],
+      "prepTime": 10,
+      "cookingTime": 30,
+      "steps": [
+        "Laver et cuire le riz",
+        "Nettoyer et couper les légumes verts",
+        "Cuire les légumes à la vapeur",
+        "Servir ensemble"
+      ],
+      "servings": 4,
+      "totalBudget": 4500,
+      "dietaryTags": ["vegetarian", "low-budget"],
+      "allergens": []
+    },
+    {
+      "id": "4",
+      "name": "Lasary Voatabia",
+      "image": "https://th.bing.com/th/id/OIP.DeYpxc9AtDNOqXyhc1cbmAHaHa?rs=1&pid=ImgDetMain",
+      "description": "Une salade fraîche et légère à base de tomates, d'oignons et de vinaigrette. Souvent servie en accompagnement pour équilibrer les plats riches.",
+      "difficulty": "Facile",
+      "category": "Accompagnement",
+      "ingredients": [
+        {
+          "name": "Tomates",
+          "quantity": "500g",
+          "estimatedPrice": 2000
+        },
+        {
+          "name": "Oignons",
+          "quantity": "100g",
+          "estimatedPrice": 500
+        },
+        {
+          "name": "Vinaigre",
+          "quantity": "50ml",
+          "estimatedPrice": 1000
+        },
+        {
+          "name": "Sel et poivre",
+          "quantity": "à volonté",
+          "estimatedPrice": 0
+        }
+      ],
+      "prepTime": 10,
+      "cookingTime": 0,
+      "steps": [
+        "Couper les tomates et les oignons en dés.",
+        "Mélanger avec du vinaigre, du sel et du poivre.",
+        "Servir frais."
+      ],
+      "servings": 4,
+      "totalBudget": 3500,
+      "dietaryTags": ["vegetarian", "gluten-free"],
+      "allergens": []
+    },
+    {
+      "id": "5",
+      "name": "Akoho sy Voanio",
+      "image": "https://th.bing.com/th/id/OIP.FNGdyWE3OzGS2SEH0AmIeQHaE8?rs=1&pid=ImgDetMain",
+      "description": "Un plat savoureux de poulet cuit dans une sauce coco crémeuse, souvent servi avec du riz.",
+      "difficulty": "Moyen",
+      "category": "Plat principal",
+      "ingredients": [
+        {
+          "name": "Poulet",
+          "quantity": "1 kg",
+          "estimatedPrice": 15000
+        },
+        {
+          "name": "Lait de coco",
+          "quantity": "400ml",
+          "estimatedPrice": 3000
+        },
+        {
+          "name": "Ail",
+          "quantity": "20g",
+          "estimatedPrice": 500
+        },
+        {
+          "name": "Oignons",
+          "quantity": "100g",
+          "estimatedPrice": 500
+        },
+        {
+          "name": "Curcuma",
+          "quantity": "10g",
+          "estimatedPrice": 500
+        }
+      ],
+      "prepTime": 20,
+      "cookingTime": 45,
+      "steps": [
+        "Faire revenir l'ail et les oignons.",
+        "Ajouter le poulet et le curcuma, bien mélanger.",
+        "Verser le lait de coco et laisser mijoter à feu doux.",
+        "Servir chaud avec du riz."
+      ],
+      "servings": 4,
+      "totalBudget": 19500,
+      "dietaryTags": ["high-protein"],
+      "allergens": []
+    },
+    
+    
+    {
+      "id": "6",
+      "name": "Tsaramaso sy Saosisy",
+      "image": "https://th.bing.com/th/id/R.abc1d14c9c8187ac6380feacafdd3d00?rik=V9GAfH0xmbOmUQ&pid=ImgRaw&r=0",
+      "description": "Un plat réconfortant à base de haricots blancs et de saucisses, souvent servi avec du riz.",
+      "difficulty": "Facile",
+      "category": "Plat principal",
+      "ingredients": [
+        {
+          "name": "Haricots blancs",
+          "quantity": "500g",
+          "estimatedPrice": 3000
+        },
+        {
+          "name": "Saucisses",
+          "quantity": "4",
+          "estimatedPrice": 8000
+        },
+        {
+          "name": "Oignons",
+          "quantity": "100g",
+          "estimatedPrice": 500
+        },
+        {
+          "name": "Ail",
+          "quantity": "20g",
+          "estimatedPrice": 500
+        },
+        {
+          "name": "Tomates",
+          "quantity": "200g",
+          "estimatedPrice": 1000
+        },
+        {
+          "name": "Huile",
+          "quantity": "50ml",
+          "estimatedPrice": 500
+        },
+        {
+          "name": "Sel et poivre",
+          "quantity": "à volonté",
+          "estimatedPrice": 0
+        }
+      ],
+      "prepTime": 20,
+      "cookingTime": 60,
+      "steps": [
+        "Faire tremper les haricots blancs pendant la nuit, puis les cuire jusqu'à ce qu'ils soient tendres.",
+        "Faire revenir les oignons et l'ail dans l'huile.",
+        "Ajouter les saucisses coupées en rondelles et les tomates, puis cuire pendant 10 minutes.",
+        "Incorporer les haricots cuits et laisser mijoter 15 minutes.",
+        "Assaisonner avec du sel et du poivre.",
+        "Servir chaud avec du riz."
+      ],
+      "servings": 4,
+      "totalBudget": 13500,
+      "dietaryTags": ["high-protein"],
+      "allergens": []
+    }
+  ]
+}
